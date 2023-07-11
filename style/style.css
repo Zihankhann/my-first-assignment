@@ -139,6 +139,21 @@
     height: 50px;
     border-radius: 25%;
 }
+.me{color:#E55473;}
+
+.right-about-h3{font-size: 43px;
+    text-align: center;
+    padding-bottom: 40px;}
+
+.more-photo{text-align: center;
+    padding-top: 5px;
+    text-decoration: underline;
+    font-weight: 700;
+    cursor: pointer;
+font-size: 18px;}
+
+.more-photo:hover{color: blue; 
+}
 
 .WELCOME {
     padding-left: 10px;
@@ -177,7 +192,7 @@
 
 
 .right-about {
-    padding-top: 165px;
+    padding-top: 140px;
 }
 
 .rr-image {
@@ -336,7 +351,7 @@
 
 .input {
     width: 700px;
-    height: 64px;
+   height: 55px;
     display: inline;
     border: none;
     border-radius: 8px;
@@ -345,11 +360,11 @@
 
 .Subscribe {
     width: 150px;
-    height: 64px;
     border-radius: 8px;
     background: #E55473;
     border: none;
     cursor: pointer;
+    height: 55px;
 }
 
 /* footer style css */
