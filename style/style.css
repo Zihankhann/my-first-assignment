@@ -349,3 +349,21 @@
     border: none;
     cursor: pointer;
 }
+
+/* footer style css */
+.foot {
+    width: 1922px;
+    height: 449px;
+    background-color: #111010;
+    text-align: center;
+    color: white;
+}
+
+.foot-h3 {
+    #FFFFFF font-size: 48px;
+    font-weight: 800;
+}
+
+.flower {
+    color: #E55473;
+}
