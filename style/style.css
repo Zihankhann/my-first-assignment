@@ -132,9 +132,7 @@
     position: relative;
 }
 
-.about-h3
-
-.My-img {
+.about-h3 .My-img {
     position: absolute;
     top: 10px;
     width: 50px;
@@ -178,15 +176,20 @@
 }
 
 
-.right-about{padding-top: 165px;}
+.right-about {
+    padding-top: 165px;
+}
+
 .rr-image {
     width: 550px;
     height: 559px;
     padding-left: 6px;
-    
+
     box-shadow: 10px 10px 8px #888888;
 }
-.about-btn{  padding: 19px 37px;
+
+.about-btn {
+    padding: 19px 37px;
     gap: 10px;
     border-radius: 8px;
     background: #E55473;
@@ -198,3 +201,54 @@
     cursor: pointer;
     margin-left: 75px;
 }
+
+/* <!-- this is hot deal style css --> */
+.hot-deal {
+    width: 1922px;
+    height: 620px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.hot-deal-left {
+    text-align: center;
+}
+
+.hot-deal-h1 {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.hot-deal-p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 15px;
+}
+
+.hot-deal-off-color {
+    color: #E55473;
+}
+
+.hot-deal-btn {
+    padding: 18px 35px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #E55473;
+    color: #FFFFFF;
+    border: none;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+/* <!-- this is Instagram section --> */
+.instagram
