@@ -10,7 +10,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 90vh;
+    height: 87vh;
     text-align: center;
     background: rgba(229, 84, 115, 0.10);
 }
@@ -25,9 +25,7 @@
 
 .header-writing {
     color: rgba(39, 39, 39, 0.60);
-    font-family: Lato;
     font-size: 18px;
-    font-weight: 400;
     line-height: 30px;
 }
 
@@ -38,9 +36,7 @@
     background: #E55473;
     border: none;
     color: #FFF;
-    font-family: Lato;
     font-size: 20px;
-    font-weight: 700;
     margin-top: 45px;
     cursor: pointer;
 }
@@ -62,7 +58,6 @@
     color: #272727;
     text-align: center;
     font-size: 40px;
-    font-weight: 800;
     padding-bottom: 45px;
     padding-top: 105px;
 }
@@ -71,7 +66,6 @@
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 18px;
-    font-weight: 400;
     padding-bottom: 45px;
 }
 
@@ -115,7 +109,6 @@
     text-align: center;
     font-family: Lato;
     font-size: 24px;
-    font-weight: 700;
     text-decoration-line: underline;
     padding-top: 20px;
 }
@@ -148,7 +141,6 @@
 .more-photo{text-align: center;
     padding-top: 5px;
     text-decoration: underline;
-    font-weight: 700;
     cursor: pointer;
 font-size: 18px;}
 
@@ -210,7 +202,6 @@ font-size: 18px;}
     background: #E55473;
     border: none;
     color: #FFF;
-    font-family: Lato;
     font-size: 17px;
     margin-top: 28px;
     cursor: pointer;
@@ -235,9 +226,7 @@ font-size: 18px;}
 
 .hot-deal-h1 {
     color: #272727;
-    font-family: Lato;
     font-size: 40px;
-    font-weight: 800;
 }
 
 .hot-deal-p {
@@ -287,7 +276,6 @@ font-size: 18px;}
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 18px;
-    font-weight: 400;
     line-height: 30px;
     padding-top: 15px;
 }
@@ -344,7 +332,6 @@ font-size: 18px;}
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
     font-size: 18px;
-    font-weight: 400;
     line-height: 30px;
     padding-top: 10px;
 }
@@ -390,7 +377,6 @@ padding-top: 128px;
 .foot-p{color: rgba(255, 255, 255, 0.90);
     text-align: center;
     font-size: 18px;
-    font-weight: 400;
     line-height: 30px;
    padding-top: 24px;}
 
