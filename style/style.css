@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -45,9 +45,10 @@
     cursor: pointer;
 }
 
-.header-img {
-    margin-top: 28px;
+.header-right {
+    margin-bottom: -45px;
 }
+
 
 /* <!-- this is Featured Flowers style css --> */
 
