@@ -39,6 +39,7 @@
     font-size: 20px;
     margin-top: 45px;
     cursor: pointer;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
 }
 
 .header-right {
@@ -75,12 +76,14 @@
     justify-content: center;
     align-items: center;
     gap: 24px;
+   
     /* padding-top: 160px; */
 }
 
 .featured-images1 {
     width: 464px;
     height: 538px;
+    
 
 }
 
@@ -88,12 +91,15 @@
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
     padding: 110px 78px 0px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+
 
 .img2 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
     padding: 117px 47px 51px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
 }
 
@@ -101,6 +107,7 @@
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
     padding: 67px 75px 0px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
 }
 
@@ -111,7 +118,11 @@
     font-size: 24px;
     text-decoration-line: underline;
     padding-top: 20px;
+
 }
+
+.img-writing:hover{color: #E55473;}
+    
 
 /* <!-- this is about me section --> */
 .about-me {
@@ -163,6 +174,7 @@ font-size: 18px;}
     /* padding-top: 95px; */
     padding-left: 30px;
     padding-top: 100px;
+    
 }
 
 
@@ -206,6 +218,7 @@ font-size: 18px;}
     margin-top: 28px;
     cursor: pointer;
     margin-left: 75px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
 }
 
 /* <!-- this is hot deal style css --> */
@@ -293,6 +306,7 @@ font-size: 18px;}
     height: 280px;
     width: 250px;
     padding-right: 15px;
+   
 }
 
 /* <!-- this is latest deal section --> */
